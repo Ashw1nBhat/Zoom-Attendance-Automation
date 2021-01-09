@@ -10,3 +10,7 @@
  1) Automation Anywhere Community Edition installed
  
  2) Web version of Zoom meeting
+ 
+ ### Video of the bot running:
+ 
+ https://drive.google.com/file/d/1kZMobirOep2Faw5NXdhRm8im3iASiOjS/view?usp=sharing
